@@ -27,17 +27,17 @@ sudo mv default /opt
 
 sudo nano default
 
-server {
-    listen 80 default_server;
-    index index.php index.html index.htm;
-    location / {
-        proxy_pass http://localhost:8000;
-        proxy_set_header Host $http_host;
-        proxy_set_header X-Real-IP $remote_addr;
-        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-        proxy_set_header X-Forwarded-Proto $scheme;
-    }
-}
+# server {
+#     listen 80 default_server;
+#     index index.php index.html index.htm;
+#     location / {
+#         proxy_pass http://localhost:8000;
+#         proxy_set_header Host $http_host;
+#         proxy_set_header X-Real-IP $remote_addr;
+#         proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+#         proxy_set_header X-Forwarded-Proto $scheme;
+#     }
+# }
 
 sudo nginx -t
 
