@@ -5,7 +5,7 @@ sudo apt install php{version}
 
 php -v 
 
-# switch php version if u more php version
+# switch php version if u more php versionn
 sudo update-alternatives --config php
 
 # Settings apache for nginx
