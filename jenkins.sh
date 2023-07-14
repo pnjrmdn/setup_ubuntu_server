@@ -11,4 +11,4 @@ www.jenkins.io/download
 # copy link adress lalu wget pada direktori
 
 # start jenkins
-java -jar jenkins.war --httpPort=9090 &
+java -jar jenkins.war --httpPort=9090 
