@@ -1,1 +1,12 @@
-test
+Experienced full-stack deb developer with a proven track record in the computer software industry. proficient in analytical skills, communication, data analysis, web design, UI/UX and management. enjoys multimedia-related activities such as photography, graphic design and video editing.Please describe your experience in data warehouse modelling *
+
+ubah kaliat di bawah ini untuk menjawab pertanyaan di atas dalam bahasa inggris
+
+Managing Servers based Ubuntu involves:
+ Handling processes running on servers for various databases, including MySQLand PostgreSQL.
+ Creating a shell script to perform ETL(Extract, Transform, Load) from a database to another database and 
+from a database to an application.
+ Scheduling data transfers between servers, applications, and FTP/SFTPnetworks using shell scripts.
+ Cleaning up dirty or anomalous data in databases using queries.
+ Closing open server ports to prevent unauthorized access.
+ Visualizing data in chart form using Power BI.
